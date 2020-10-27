@@ -1,0 +1,850 @@
+# BLASTP 2.10.1+
+# Query: smeZ tr|Q48R63|Q48R63_STRPM Mitogenic exotoxin Z OS=Streptococcus pyogenes serotype M28 (strain MGAS6180) OX=319701 GN=smeZ PE=3 SV=2
+# Database: pan_prot
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 25 hits found
+smeZ	speC_1~~~~~~speC_2~~~speC_3~~~speC_4~~~entE	92.975	242	8	1	24	256	1	242	1.87e-146	406
+smeZ	speC_5~~~speC_3~~~speC_2	32.995	197	125	4	60	255	44	234	1.35e-25	98.2
+smeZ	speC_4~~~speC_5~~~speC_3	32.995	197	125	4	60	255	44	234	1.35e-25	98.2
+smeZ	speC_1~~~speC_3~~~speC_2	31.500	200	128	5	56	252	26	219	2.03e-23	92.0
+smeZ	speC_3~~~speC_1~~~speC_2	29.583	240	149	7	27	252	2	235	4.59e-20	83.6
+smeZ	group_2047	28.897	263	150	11	14	252	3	252	3.12e-19	81.6
+smeZ	speC_3~~~speC_2~~~speC_1	30.159	189	124	5	66	252	49	231	7.38e-19	80.1
+smeZ	speH_2~~~speH~~~speH_1	34.426	122	75	4	134	254	118	235	1.49e-13	65.5
+smeZ	speA	29.707	239	135	13	28	243	10	238	9.86e-13	63.2
+smeZ	speA~~~speA_2~~~speA_1	37.069	116	67	5	131	243	126	238	1.19e-11	60.1
+smeZ	speC	27.545	167	108	6	89	252	98	254	8.14e-09	52.0
+smeZ	group_1196	27.545	167	108	6	89	252	98	254	8.14e-09	52.0
+smeZ	speC_3	27.572	243	147	11	24	252	1	228	2.06e-08	50.4
+smeZ	entC3~~~entB~~~entC2	29.730	111	73	4	135	241	136	245	2.44e-07	47.8
+smeZ	entC3	29.730	111	73	4	135	241	136	245	2.44e-07	47.8
+smeZ	speC_2	26.852	216	132	10	49	252	49	250	9.36e-07	45.8
+smeZ	group_2692	25.221	226	142	11	40	252	53	264	1.38e-05	42.4
+smeZ	bin3	34.211	38	25	0	193	230	134	171	1.7	26.6
+smeZ	group_3698	24.719	178	105	8	1	156	32	202	1.9	26.9
+smeZ	hrcA	24.000	75	56	1	115	189	227	300	2.1	26.6
+smeZ	group_2100	23.913	92	60	3	103	194	21	102	2.8	26.2
+smeZ	mfd_1~~~~~~mfd~~~mfd_2	23.770	122	78	4	67	187	449	556	3.3	26.2
+smeZ	group_3870	32.759	58	33	1	58	109	9	66	3.9	25.4
+smeZ	group_3139	28.986	69	42	3	189	251	1	68	5.5	24.3
+smeZ	group_1215	34.375	32	20	1	153	184	130	160	5.8	25.0
+# BLASTP 2.10.1+
+# Query: speB sp|P0C0J0|SPEB_STRPY Streptopain OS=Streptococcus pyogenes OX=1314 GN=speB PE=1 SV=1
+# Database: pan_prot
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 13 hits found
+speB	speB_2~~~speB_3	97.739	398	9	0	1	398	1	398	0.0	799
+speB	speB_4	99.286	140	1	0	259	398	1	140	2.90e-99	288
+speB	speB_3	92.537	134	10	0	1	134	1	134	1.46e-82	246
+speB	speB_1	38.235	102	56	3	28	128	2	97	5.47e-13	62.0
+speB	speB_1~~~speB_2	37.255	102	57	3	28	128	2	97	6.41e-12	58.9
+speB	group_820	27.007	137	66	6	94	228	222	326	0.051	32.3
+speB	rsmB~~~rsmB_1~~~rsmB_2	38.235	34	19	1	100	131	386	419	1.1	28.5
+speB	group_1840	45.455	22	12	0	114	135	123	144	2.2	26.6
+speB	group_3908	43.333	30	15	1	11	40	23	50	4.8	25.4
+speB	deoB	34.545	55	33	2	93	146	302	354	6.3	25.8
+speB	group_4087	41.379	29	16	1	73	100	17	45	7.8	25.8
+speB	group_3703	31.884	69	38	2	333	395	234	299	8.4	25.8
+speB	sodA	28.846	52	35	1	127	178	48	97	8.7	25.0
+# BLASTP 2.10.1+
+# Query: speG sp|P0DG09|SPEG_STRPQ Exotoxin type G OS=Streptococcus pyogenes serotype M3 (strain SSI-1) OX=193567 GN=speG PE=3 SV=1
+# Database: pan_prot
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 27 hits found
+speG	speC_3~~~speC_1~~~speC_2	97.835	231	5	0	4	234	10	240	2.91e-168	460
+speG	speC_1~~~speC_3~~~speC_2	42.381	210	118	3	25	233	16	223	6.80e-50	160
+speG	speC_3~~~speC_2~~~speC_1	40.826	218	126	3	16	233	21	235	1.63e-44	146
+speG	speC_5~~~speC_3~~~speC_2	37.555	229	132	6	7	232	14	234	5.00e-40	135
+speG	speC_4~~~speC_5~~~speC_3	37.555	229	132	6	7	232	14	234	5.00e-40	135
+speG	speC_1~~~~~~speC_2~~~speC_3~~~speC_4~~~entE	35.948	153	88	5	83	229	90	238	3.79e-14	66.6
+speG	group_2047	34.337	166	83	9	86	231	95	254	8.49e-11	57.4
+speG	speC_2	24.815	270	146	10	1	231	1	252	3.35e-09	52.8
+speG	group_2692	28.188	149	90	4	89	231	129	266	2.02e-08	50.4
+speG	speC	27.215	158	98	4	82	233	112	258	7.98e-08	48.9
+speG	group_1196	27.215	158	98	4	82	233	112	258	7.98e-08	48.9
+speG	speA~~~speA_2~~~speA_1	26.923	156	101	6	86	233	100	250	2.28e-07	47.4
+speG	speA	28.481	158	96	7	86	233	100	250	3.26e-07	47.0
+speG	speC_3	24.303	251	149	11	1	231	1	230	8.33e-07	45.4
+speG	speH_2~~~speH~~~speH_1	28.289	152	93	7	85	229	91	233	1.07e-06	45.1
+speG	entC3~~~entB~~~entC2	26.050	119	85	3	109	225	135	252	1.33e-06	45.1
+speG	entC3	26.050	119	85	3	109	225	135	252	1.33e-06	45.1
+speG	group_3139	39.623	53	31	1	165	217	1	52	1.18e-04	37.4
+speG	lcnD~~~lcnD_2~~~lcnD_1	33.929	56	29	2	173	221	398	452	2.1	26.6
+speG	aroA_2~~~aroA_1	38.710	31	19	0	10	40	268	298	3.1	25.8
+speG	aroA_1	38.710	31	19	0	10	40	266	296	3.4	25.8
+speG	group_3838	36.667	30	19	0	93	122	159	188	4.6	25.4
+speG	group_2127	22.642	106	69	4	40	142	125	220	5.0	25.0
+speG	group_3837	36.667	30	19	0	93	122	159	188	5.1	25.0
+speG	mecA_2~~~mecA_1~~~mecA	27.660	47	30	2	103	148	206	249	5.5	25.0
+speG	mecA	27.660	47	30	2	103	148	206	249	5.5	25.0
+speG	uvrB_1~~~uvrB_2~~~uvrB	26.829	41	25	1	2	42	138	173	9.1	24.6
+# BLASTP 2.10.1+
+# Query: speJ tr|Q7BAE3|Q7BAE3_STRPY Exotoxin J OS=Streptococcus pyogenes OX=1314 GN=speJ PE=1 SV=1
+# Database: pan_prot
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 25 hits found
+speJ	speC_3~~~speC_2~~~speC_1	98.707	232	3	0	1	232	5	236	1.12e-166	456
+speJ	speC_1~~~speC_3~~~speC_2	75.117	213	52	1	21	232	12	224	1.31e-112	319
+speJ	speC_5~~~speC_3~~~speC_2	50.476	210	102	2	21	229	25	233	7.35e-68	206
+speJ	speC_4~~~speC_5~~~speC_3	50.476	210	102	2	21	229	25	233	7.35e-68	206
+speJ	speC_3~~~speC_1~~~speC_2	40.870	230	132	4	5	231	11	239	2.82e-46	151
+speJ	group_3139	59.322	59	24	0	164	222	1	59	6.34e-17	70.9
+speJ	speC_1~~~~~~speC_2~~~speC_3~~~speC_4~~~entE	29.412	204	127	5	39	227	37	238	2.51e-14	67.0
+speJ	group_2047	37.500	136	68	4	109	229	121	254	5.56e-14	66.2
+speJ	speA~~~speA_2~~~speA_1	30.435	207	125	9	37	232	53	251	1.83e-11	59.3
+speJ	speC	26.786	168	107	4	70	231	101	258	2.93e-10	55.8
+speJ	group_1196	26.786	168	107	4	70	231	101	258	2.93e-10	55.8
+speJ	speA	28.502	207	129	9	37	232	53	251	6.65e-09	52.0
+speJ	speC_2	31.169	154	84	5	85	229	112	252	4.30e-08	49.7
+speJ	speH_2~~~speH~~~speH_1	29.940	167	106	8	65	227	74	233	1.57e-07	47.8
+speJ	group_2692	28.477	151	92	4	85	229	126	266	2.06e-07	47.4
+speJ	speC_3	27.815	151	89	5	87	229	92	230	1.83e-05	41.6
+speJ	entC3~~~entB~~~entC2	26.966	178	117	4	54	218	70	247	0.015	32.7
+speJ	entC3	26.966	178	117	4	54	218	70	247	0.015	32.7
+speJ	group_3801	29.032	62	42	1	134	195	1342	1401	0.88	27.7
+speJ	group_1242	56.250	16	7	0	36	51	202	217	3.1	25.8
+speJ	group_3108	34.091	44	29	0	144	187	16	59	3.3	25.8
+speJ	group_2099	36.667	30	19	0	105	134	232	261	4.0	25.4
+speJ	queT	23.729	59	32	2	80	137	117	163	5.0	24.6
+speJ	group_1560	42.553	47	24	2	2	45	546	592	6.1	25.0
+speJ	group_3288	50.000	22	11	0	52	73	62	83	8.5	23.5
+# BLASTP 2.10.1+
+# Query: slo tr|Q9S0R9|Q9S0R9_STRPY Streptolysin O (Fragment) OS=Streptococcus pyogenes OX=1314 GN=slo PE=4 SV=1
+# Database: pan_prot
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 8 hits found
+slo	slo_1~~~~~~slo_2~~~slo	100.000	88	0	0	1	88	4	91	4.07e-55	176
+slo	group_4076	37.097	62	29	3	8	59	2	63	0.75	25.0
+slo	group_4215	37.931	29	18	0	3	31	2	30	1.1	24.6
+slo	group_2935	27.397	73	45	2	4	68	3	75	1.2	24.3
+slo	group_4092	34.286	35	23	0	3	37	2	36	2.1	23.5
+slo	group_3078	36.364	22	14	0	43	64	23	44	7.2	21.9
+slo	group_3667	37.037	27	17	0	42	68	164	190	8.0	22.3
+slo	group_3833	36.364	33	21	0	10	42	17	49	9.6	21.9
+# BLASTP 2.10.1+
+# Query: NADase tr|Q5R2E0|Q5R2E0_STRPY NADase OS=Streptococcus pyogenes OX=1314 GN=nga PE=4 SV=1
+# Database: pan_prot
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+NADase	group_2978	96.264	455	8	1	1	446	1	455	0.0	893
+NADase	tmk_2~~~tmk_1~~~~~~tmk	38.710	31	19	0	158	188	148	178	2.2	27.3
+NADase	mutS2~~~mutS2_1~~~mutS2_2	35.484	31	20	0	313	343	724	754	3.8	26.9
+# BLASTP 2.10.1+
+# Query: ska sp|P96471|STRQ_STRPY Streptokinase OS=Streptococcus pyogenes OX=1314 GN=ska PE=3 SV=1
+# Database: pan_prot
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 12 hits found
+ska	skc~~~skc_1~~~skc_2	91.818	440	36	0	1	440	1	440	0.0	835
+ska	yfkJ	27.711	83	52	3	230	306	52	132	1.8	26.9
+ska	group_3967	27.711	83	52	3	230	306	52	132	1.8	26.9
+ska	group_4097	44.828	29	15	1	248	275	153	181	2.0	27.3
+ska	tagH~~~btuD	30.508	59	29	2	199	253	160	210	2.7	27.3
+ska	coaBC_2~~~coaBC_1~~~~~~coaBC	26.389	72	42	3	178	242	137	204	5.7	25.8
+ska	group_3841	36.000	25	16	0	414	438	13	37	6.6	24.3
+ska	group_453	36.842	38	24	0	40	77	1968	2005	7.1	26.2
+ska	group_453	36.842	38	24	0	40	77	2049	2086	7.1	26.2
+ska	group_3050	32.558	86	49	4	322	407	308	384	8.4	25.8
+ska	group_1404	55.556	27	9	2	286	309	138	164	9.0	25.4
+ska	group_2719	31.373	51	31	1	24	70	119	169	9.0	25.4
+# BLASTP 2.10.1+
+# Query: sof tr|Q9X3R6|Q9X3R6_STRPY Serum opacity factor OS=Streptococcus pyogenes OX=1314 GN=sof PE=4 SV=1
+# Database: pan_prot
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 42 hits found
+sof	group_2523	62.571	1058	340	21	1	1026	1	1034	0.0	1160
+sof	group_997	57.037	1080	400	21	1	1026	1	1070	0.0	1079
+sof	group_670	50.462	757	318	15	1	731	1	726	0.0	653
+sof	group_229	64.831	236	58	5	815	1026	491	725	3.43e-82	279
+sof	group_1157	57.746	213	74	5	827	1026	434	643	6.95e-58	208
+sof	group_17	39.306	173	92	5	851	1021	1034	1195	1.98e-24	107
+sof	group_2793	38.849	139	70	7	885	1020	733	859	9.95e-14	72.4
+sof	ennX_2~~~ennX_1~~~emm5~~~ennX_3~~~emm5_2~~~emm5_1~~~emm6~~~ennX	40.426	47	25	2	981	1026	386	430	0.030	35.0
+sof	bca_3~~~bca_4~~~bca_2	45.946	37	18	1	988	1022	344	380	0.060	33.9
+sof	bca_2~~~bca~~~~~~bca_1~~~bca_3	45.946	37	18	1	988	1022	1619	1655	0.068	34.3
+sof	smc_5~~~ennX_2~~~emm5	40.426	47	25	2	981	1026	371	415	0.083	33.5
+sof	group_3130	41.026	39	22	1	984	1021	123	161	0.11	32.0
+sof	emm5~~~emm6~~~smc_3~~~ennX~~~ennX_1~~~ennX_2~~~~~~emm5_1~~~smc_2~~~emm5_2~~~arp4~~~smc_1~~~emm6_2~~~smc_4~~~smc_5	31.667	60	35	1	965	1024	1113	1166	0.12	33.5
+sof	emm5~~~emm6~~~smc_3~~~ennX~~~ennX_1~~~ennX_2~~~~~~emm5_1~~~smc_2~~~emm5_2~~~arp4~~~smc_1~~~emm6_2~~~smc_4~~~smc_5	46.154	39	18	1	2	37	598	636	8.0	27.3
+sof	emm6	31.667	60	35	1	965	1024	455	508	0.17	32.7
+sof	emm6	40.476	42	22	1	2	43	6	44	2.3	28.9
+sof	smc_3~~~emm6~~~emm5	31.667	60	35	1	965	1024	427	480	0.20	32.3
+sof	smc_3~~~emm6~~~emm5	53.571	28	10	1	2	29	6	30	1.7	29.3
+sof	ennX	31.667	60	35	1	965	1024	312	365	0.33	31.6
+sof	emm5_1~~~~~~smc_1	43.243	37	19	1	988	1022	533	569	0.43	31.2
+sof	group_3788	35.185	54	30	2	969	1021	885	934	0.57	31.2
+sof	ennX_1~~~ennX~~~ennX_2	33.333	51	28	1	965	1015	367	411	0.85	30.4
+sof	group_2887	21.912	251	147	9	473	721	73	276	0.95	30.0
+sof	group_2518	22.302	139	85	4	492	621	112	236	2.7	28.5
+sof	group_3820	37.500	40	25	0	984	1023	713	752	2.8	28.9
+sof	lepA_1~~~lepA_3~~~lepA_14~~~lepA~~~lepA_2	32.075	53	35	1	970	1021	879	931	2.8	28.9
+sof	ennX_1~~~ennX_2~~~ennX~~~~~~ennX_3	40.541	37	20	1	990	1026	424	458	3.1	28.5
+sof	ennX_1	40.541	37	20	1	990	1026	340	374	3.3	28.1
+sof	group_984	37.778	90	46	4	68	151	182	267	3.3	28.5
+sof	group_984	42.857	28	13	1	3	30	9	33	6.0	27.7
+sof	group_4207	29.412	34	24	0	984	1017	481	514	4.1	28.1
+sof	group_954	26.761	71	51	1	99	168	539	609	4.5	28.1
+sof	emm6~~~~~~arp4~~~ennX_2~~~ennX_1	41.667	36	19	1	991	1026	430	463	4.9	27.7
+sof	group_1392	38.889	36	17	1	783	813	799	834	5.1	27.7
+sof	smc_1~~~smc_3	30.208	96	58	3	588	683	179	265	5.8	27.7
+sof	group_1433	38.889	36	17	1	783	813	499	534	6.1	27.7
+sof	group_3830	42.857	28	13	1	3	30	9	33	6.7	27.3
+sof	group_2273	33.333	33	22	0	988	1020	1631	1663	7.4	27.3
+sof	group_1627	26.230	61	43	1	219	279	176	234	7.6	27.3
+sof	pepN_1~~~pepN~~~pepN_2	53.333	15	7	0	301	315	821	835	8.9	26.9
+sof	group_3049	27.723	101	52	4	224	315	216	304	9.1	26.9
+sof	pheT_1~~~pheT_2~~~pheT_3~~~pheT_4~~~pheT~~~pheT_5	26.667	75	50	1	119	188	302	376	9.3	26.9
+# BLASTP 2.10.1+
+# Query: C5a_peptidase sp|P58099|C5AP_STRP1 C5a peptidase OS=Streptococcus pyogenes serotype M1 OX=301447 GN=scpA PE=3 SV=1
+# Database: pan_prot
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 26 hits found
+C5a_peptidase	scpA_2~~~scpA_4~~~scpA_1~~~~~~scpA_3~~~scpA_5~~~scpA_6~~~scpA_7	93.014	1231	33	2	1	1178	1	1231	0.0	2317
+C5a_peptidase	group_2273	35.787	883	469	32	191	1019	297	1135	2.80e-125	419
+C5a_peptidase	group_2273	32.941	170	108	3	14	181	57	222	3.98e-16	80.9
+C5a_peptidase	group_2273	26.754	228	121	9	821	1027	1209	1411	4.92e-09	57.8
+C5a_peptidase	brnQ	25.773	97	70	2	924	1019	350	445	0.055	34.3
+C5a_peptidase	group_4198	31.387	137	78	4	1019	1150	272	397	0.090	33.5
+C5a_peptidase	group_4198	33.582	134	69	5	1026	1154	252	370	0.14	33.1
+C5a_peptidase	group_4198	41.509	53	30	1	1053	1105	238	289	6.2	27.7
+C5a_peptidase	group_3287	37.500	72	39	4	13	81	6	74	0.18	32.3
+C5a_peptidase	group_689	33.058	121	74	3	1035	1150	324	442	0.24	32.3
+C5a_peptidase	group_689	39.000	100	33	8	1019	1103	233	319	0.29	32.0
+C5a_peptidase	group_689	39.000	100	33	8	1019	1103	275	361	0.37	31.6
+C5a_peptidase	group_689	41.667	84	30	7	1035	1103	261	340	0.51	31.2
+C5a_peptidase	group_689	38.028	71	38	2	1040	1105	223	292	3.0	28.9
+C5a_peptidase	group_261	37.500	56	28	2	471	525	282	331	0.73	30.4
+C5a_peptidase	emm6	33.803	71	46	1	94	163	347	417	1.5	29.6
+C5a_peptidase	lepA_1~~~lepA_3~~~lepA_14~~~lepA~~~lepA_2	38.462	52	25	2	58	108	835	880	2.0	29.3
+C5a_peptidase	smc_3~~~emm6~~~emm5	33.803	71	46	1	94	163	319	389	2.3	29.3
+C5a_peptidase	group_4282	41.667	36	21	0	839	874	182	217	4.0	28.1
+C5a_peptidase	rsmI_2~~~rsmI~~~rsmI_1	31.183	93	46	5	439	521	48	132	4.3	28.1
+C5a_peptidase	group_1663	25.385	130	58	5	732	829	986	1108	5.7	28.1
+C5a_peptidase	group_2744	28.866	97	49	3	813	891	857	951	6.1	27.7
+C5a_peptidase	emm5~~~emm6~~~smc_3~~~ennX~~~ennX_1~~~ennX_2~~~~~~emm5_1~~~smc_2~~~emm5_2~~~arp4~~~smc_1~~~emm6_2~~~smc_4~~~smc_5	33.333	69	45	1	96	163	1007	1075	6.2	27.7
+C5a_peptidase	ntpB~~~ntpB_2~~~ntpB_1	33.333	60	38	1	321	378	368	427	6.2	27.7
+C5a_peptidase	group_829	28.099	121	69	5	1	117	1	107	9.5	26.9
+C5a_peptidase	lepA_1~~~lepA_2~~~lepA	29.897	97	56	3	1029	1125	617	701	9.6	27.3
+# BLASTP 2.10.1+
+# Query: Sib35 tr|Q1XG74|Q1XG74_STRPY Immunoglobulin-binding protein 35 OS=Streptococcus pyogenes serotype M12 OX=342023 GN=sib35 PE=4 SV=1
+# Database: pan_prot
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 14 hits found
+Sib35	ide	97.647	340	8	0	2	341	14	353	0.0	690
+Sib35	ide_2	60.465	344	131	2	1	339	1	344	8.76e-155	435
+Sib35	group_233	30.435	69	38	2	241	301	1	67	0.94	28.1
+Sib35	group_1045	25.275	91	63	3	167	256	37	123	1.4	26.9
+Sib35	group_86	29.310	58	37	2	186	243	1	54	1.9	25.8
+Sib35	group_3507	28.846	52	37	0	187	238	54	105	3.0	25.8
+Sib35	group_4198	53.846	26	12	0	223	248	86	111	3.8	26.2
+Sib35	rsmE~~~~~~rsmE_1~~~rsmE_2	45.833	24	13	0	305	328	174	197	5.3	25.8
+Sib35	group_357	27.451	51	28	3	46	91	29	75	5.5	25.4
+Sib35	rsmE	45.833	24	13	0	305	328	174	197	5.9	25.4
+Sib35	xerC_4~~~xerC_1	28.947	38	27	0	232	269	300	337	6.1	25.8
+Sib35	group_4199	75.000	16	4	0	228	243	92	107	6.6	25.4
+Sib35	larR	25.532	94	54	5	227	320	140	217	6.7	25.4
+Sib35	group_3927	23.353	167	97	6	151	317	226	361	8.6	25.0
+# BLASTP 2.10.1+
+# Query: R28 tr|Q9XDB6|Q9XDB6_STRPY Surface protein R28 OS=Streptococcus pyogenes OX=1314 GN=spr28 PE=1 SV=1
+# Database: pan_prot
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 75 hits found
+R28	bca_2~~~bca~~~~~~bca_1~~~bca_3	99.345	1221	8	0	1	1221	1	1221	0.0	2318
+R28	bca_2~~~bca~~~~~~bca_1~~~bca_3	86.447	1033	107	8	230	1260	654	1655	0.0	1327
+R28	bca_2~~~bca~~~~~~bca_1~~~bca_3	99.004	803	8	0	419	1221	498	1300	0.0	1237
+R28	bca_3~~~bca_4~~~bca_2	100.000	380	0	0	881	1260	1	380	0.0	710
+R28	bca_3~~~bca_4~~~bca_2	99.413	341	2	0	486	826	1	341	0.0	629
+R28	bca_3~~~bca_4~~~bca_2	99.413	341	2	0	565	905	1	341	0.0	629
+R28	bca_3~~~bca_4~~~bca_2	99.413	341	2	0	644	984	1	341	0.0	629
+R28	bca_3~~~bca_4~~~bca_2	99.413	341	2	0	723	1063	1	341	0.0	629
+R28	bca_3~~~bca_4~~~bca_2	99.413	341	2	0	802	1142	1	341	0.0	629
+R28	bca_3~~~bca_4~~~bca_2	98.480	329	5	0	419	747	13	341	0.0	603
+R28	bca_3~~~bca_4~~~bca_2	61.326	362	107	8	230	589	11	341	7.36e-83	273
+R28	bca_3	96.644	149	5	0	486	634	8	156	2.06e-85	271
+R28	bca_3	96.644	149	5	0	565	713	8	156	2.06e-85	271
+R28	bca_3	96.644	149	5	0	644	792	8	156	2.06e-85	271
+R28	bca_3	96.644	149	5	0	723	871	8	156	2.06e-85	271
+R28	bca_3	96.644	149	5	0	802	950	8	156	2.06e-85	271
+R28	bca_3	96.644	149	5	0	881	1029	8	156	2.06e-85	271
+R28	bca_3	96.644	149	5	0	960	1108	8	156	2.06e-85	271
+R28	bca_3	96.644	149	5	0	1039	1187	8	156	2.06e-85	271
+R28	bca_3	94.891	137	7	0	419	555	20	156	1.74e-76	246
+R28	bca_3	94.231	104	6	0	1118	1221	8	111	3.11e-55	186
+R28	bca_3	37.975	79	47	1	233	311	21	97	2.78e-04	40.0
+R28	bca_3	35.593	59	36	1	233	291	100	156	4.1	27.7
+R28	group_278	51.562	64	29	1	1	64	1	62	3.64e-13	71.2
+R28	group_278	36.111	36	22	1	1225	1260	1288	1322	3.8	28.5
+R28	ennX_1~~~ennX_2~~~ennX~~~~~~ennX_3	47.619	42	22	0	1219	1260	417	458	4.51e-06	47.8
+R28	ennX_1~~~ennX_2~~~ennX~~~~~~ennX_3	48.148	27	14	0	14	40	5	31	0.15	33.1
+R28	ennX_1~~~ennX~~~ennX_2	50.000	36	18	0	1225	1260	385	420	1.03e-05	46.2
+R28	emm5_1~~~~~~smc_1	52.500	40	18	1	1222	1260	531	570	1.11e-05	46.6
+R28	emm5_1~~~~~~smc_1	50.000	40	11	1	1	40	1	31	0.001	40.0
+R28	group_4207	55.556	36	15	1	1226	1260	487	522	1.90e-05	45.8
+R28	group_4207	65.217	23	8	0	16	38	11	33	7.05e-04	40.4
+R28	smc_3~~~emm6~~~emm5	51.429	35	17	0	1226	1260	446	480	2.36e-05	45.4
+R28	emm6	51.429	35	17	0	1226	1260	474	508	2.49e-05	45.4
+R28	emm6~~~~~~arp4~~~ennX_2~~~ennX_1	50.000	34	17	0	1227	1260	430	463	2.79e-05	45.1
+R28	ennX_2~~~ennX_1~~~emm5~~~ennX_3~~~emm5_2~~~emm5_1~~~emm6~~~ennX	52.778	36	16	1	1226	1260	395	430	3.79e-05	44.7
+R28	smc_5~~~ennX_2~~~emm5	52.778	36	16	1	1226	1260	380	415	4.01e-05	44.3
+R28	ennX	47.222	36	19	0	1225	1260	330	365	6.14e-05	43.9
+R28	ennX	30.000	80	48	3	13	92	4	75	0.14	33.1
+R28	group_726	45.714	35	19	0	1226	1260	555	589	7.42e-05	43.9
+R28	emm5~~~emm6~~~smc_3~~~ennX~~~ennX_1~~~ennX_2~~~~~~emm5_1~~~smc_2~~~emm5_2~~~arp4~~~smc_1~~~emm6_2~~~smc_4~~~smc_5	46.341	41	22	0	1220	1260	1126	1166	7.85e-05	43.9
+R28	group_3574	45.714	35	19	0	1226	1260	467	501	9.03e-05	43.5
+R28	group_1433	44.444	36	20	0	1225	1260	556	591	1.03e-04	43.5
+R28	group_1392	45.714	35	19	0	1226	1260	857	891	1.22e-04	43.5
+R28	lepA_1~~~lepA_3~~~lepA_14~~~lepA~~~lepA_2	44.444	36	20	0	1225	1260	899	934	2.06e-04	42.7
+R28	ennX_1	45.238	42	23	0	1219	1260	333	374	2.29e-04	42.0
+R28	ennX_1	48.148	27	14	0	14	40	5	31	2.2	29.3
+R28	spg~~~~~~smc_3	57.576	33	14	0	1225	1257	405	437	2.60e-04	42.0
+R28	group_4172	57.576	33	14	0	1225	1257	209	241	3.08e-04	40.8
+R28	emm5	51.429	35	17	0	1226	1260	366	400	0.002	38.9
+R28	group_689	50.000	36	18	0	1225	1260	434	469	0.002	38.9
+R28	emm5~~~emm6~~~emm6_2	50.000	36	18	0	1225	1260	462	497	0.002	38.9
+R28	group_4198	50.000	36	18	0	1225	1260	389	424	0.003	38.9
+R28	group_3949	50.000	36	18	0	1225	1260	267	302	0.003	38.5
+R28	group_4199	50.000	36	18	0	1225	1260	276	311	0.003	38.1
+R28	group_3247	51.429	35	17	0	1226	1260	266	300	0.003	38.1
+R28	group_984	39.130	46	25	2	1217	1260	433	477	0.003	38.5
+R28	group_984	32.143	56	20	2	2	45	1	50	0.095	33.5
+R28	smc_5~~~smc_3~~~smc_1~~~smc_4~~~smc_2	22.429	807	356	24	617	1245	756	1470	0.004	38.5
+R28	smc_5~~~smc_3~~~smc_1~~~smc_4~~~smc_2	22.036	776	333	22	459	1053	756	1440	0.016	36.6
+R28	group_3830	34.000	50	32	1	1211	1260	316	364	0.004	37.7
+R28	group_3830	39.024	41	18	2	1	41	1	34	0.090	33.5
+R28	group_3820	32.877	73	48	1	1187	1258	679	751	0.004	38.1
+R28	group_2523	48.649	37	17	1	1224	1260	996	1030	0.005	38.1
+R28	group_997	48.649	37	17	1	1224	1260	1032	1066	0.017	36.2
+R28	group_3371	33.333	75	46	3	1187	1258	679	752	0.032	35.4
+R28	group_229	41.176	34	20	0	1227	1260	690	723	0.093	33.9
+R28	group_1157	40.000	35	21	0	1226	1260	607	641	0.10	33.5
+R28	group_302	30.303	66	45	1	1196	1260	652	717	0.19	32.7
+R28	group_3066	28.571	84	56	2	153	233	1	83	0.24	31.6
+R28	lepA_1~~~lepA_2~~~lepA	47.222	36	19	0	1225	1260	699	734	0.34	32.0
+R28	smc_2~~~~~~smc_1	50.000	36	17	1	1226	1260	581	616	1.0	30.4
+R28	smc_3~~~smc_1	42.424	33	19	0	1227	1259	727	759	1.0	30.4
+R28	smc_1~~~smc_2~~~smc_3~~~~~~emm6_1	50.000	36	17	1	1226	1260	438	473	1.1	30.0
+R28	smc_2~~~smc_3~~~smc_1	50.000	36	17	1	1226	1260	547	582	1.3	30.0
+# BLASTP 2.10.1+
+# Query: arcA sp|P0C0B4|ARCA_STRP1 Arginine deiminase OS=Streptococcus pyogenes serotype M1 OX=301447 GN=arcA PE=3 SV=2
+# Database: pan_prot
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+arcA	arcA_1~~~arcA_2~~~arcA	100.000	411	0	0	1	411	1	411	0.0	842
+arcA	group_1222	38.776	49	25	1	301	344	208	256	0.20	30.4
+arcA	group_3273	43.333	30	17	0	122	151	135	164	3.3	26.6
+arcA	group_548	35.294	34	22	0	112	145	21	54	4.1	25.0
+arcA	leuA	24.444	90	59	3	170	258	175	256	9.6	25.4
+arcA	group_858	21.127	71	51	2	90	156	198	267	9.9	25.0
+# BLASTP 2.10.1+
+# Query: TF sp|P0C0E1|TIG_STRP1 Trigger factor OS=Streptococcus pyogenes serotype M1 OX=301447 GN=tig PE=3 SV=2
+# Database: pan_prot
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 8 hits found
+TF	tig_1~~~tig~~~tig_2	98.592	426	6	0	1	426	1	426	0.0	846
+TF	mdtD~~~ribZ	28.000	50	36	0	211	260	29	78	0.60	29.3
+TF	group_1274	34.483	29	19	0	19	47	125	153	2.2	26.9
+TF	metN_1	26.190	84	56	1	59	136	94	177	4.7	26.2
+TF	pezT	41.379	29	17	0	218	246	27	55	5.6	25.8
+TF	mltG~~~mltG_1~~~~~~mltG_2	33.333	72	38	4	151	215	621	689	6.7	26.2
+TF	group_2675	41.379	29	17	0	218	246	27	55	9.0	25.4
+TF	btuD_1~~~btuD_2~~~btuD_3~~~btuD_4~~~msbA~~~msbA_2	20.588	102	62	3	56	151	538	626	9.8	25.4
+# BLASTP 2.10.1+
+# Query: sfb1 tr|Q48VN7|Q48VN7_STRPM Fibronectin binding protein 1 OS=Streptococcus pyogenes serotype M28 (strain MGAS6180) OX=319701 GN=sfb1 PE=4 SV=1
+# Database: pan_prot
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 31 hits found
+sfb1	group_2793	70.192	416	110	4	13	417	1	413	0.0	569
+sfb1	group_2793	83.578	341	14	3	278	616	563	863	5.25e-177	521
+sfb1	group_2793	85.211	142	16	2	278	417	443	581	2.23e-59	210
+sfb1	group_2991	50.566	265	119	3	13	265	1	265	6.97e-77	257
+sfb1	group_2991	25.000	124	77	3	154	266	475	593	0.074	33.1
+sfb1	group_1444	48.627	255	110	6	29	264	20	272	2.43e-67	231
+sfb1	group_229	32.162	370	202	14	270	614	376	721	7.61e-30	122
+sfb1	group_997	31.864	295	156	14	353	614	784	1066	1.51e-24	106
+sfb1	group_2523	32.740	281	148	10	353	614	772	1030	1.86e-24	105
+sfb1	group_17	40.212	189	99	6	436	612	1010	1196	3.45e-24	105
+sfb1	group_17	38.462	104	47	1	455	558	999	1085	6.60e-14	72.0
+sfb1	group_17	34.545	55	30	2	451	499	841	895	7.0	26.6
+sfb1	group_1157	31.359	287	130	11	354	614	394	639	3.78e-22	97.8
+sfb1	group_689	34.254	181	100	7	237	412	210	376	4.76e-07	49.7
+sfb1	group_689	36.923	130	66	6	263	387	278	396	6.22e-04	39.7
+sfb1	group_4198	31.818	176	100	6	271	435	219	385	3.85e-04	40.0
+sfb1	group_2267	32.609	46	31	0	570	615	170	215	0.003	36.6
+sfb1	group_2017	29.000	100	56	4	107	195	176	271	0.006	36.2
+sfb1	emm5~~~emm6~~~emm6_2	34.351	131	63	5	305	435	351	458	0.054	33.5
+sfb1	group_3338	54.545	22	10	0	581	602	201	222	0.13	31.6
+sfb1	group_3784	54.545	22	10	0	581	602	209	230	0.25	30.8
+sfb1	ssp5~~~pas~~~~~~spaP	25.517	145	87	4	274	418	702	825	0.50	30.4
+sfb1	group_3703	30.769	78	40	3	338	415	502	565	1.7	28.5
+sfb1	group_3703	32.787	61	36	2	314	374	502	557	3.3	27.7
+sfb1	group_3353	25.850	147	81	4	287	418	732	865	1.8	28.5
+sfb1	lepA_1~~~lepA_2~~~lepA	41.667	36	15	2	264	294	640	674	3.2	27.7
+sfb1	group_302	35.000	40	23	2	575	613	680	717	3.4	27.7
+sfb1	group_315	34.043	47	28	2	568	611	972	1018	3.6	27.7
+sfb1	group_3476	45.455	33	18	0	434	466	860	892	6.9	26.6
+sfb1	trxA	29.577	71	48	1	286	356	42	110	8.5	25.0
+sfb1	ykoD_2~~~ykoD_1	37.143	35	18	1	156	190	242	272	9.8	26.2
+# BLASTP 2.10.1+
+# Query: sfbX tr|Q934I3|Q934I3_STRPY Fibronectin binding protein SfbX OS=Streptococcus pyogenes OX=1314 GN=sfbX PE=4 SV=2
+# Database: pan_prot
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 49 hits found
+sfbX	group_1157	90.076	655	53	2	1	655	1	643	0.0	1162
+sfbX	group_229	86.598	582	66	2	1	580	1	572	0.0	1013
+sfbX	group_2523	55.242	248	78	7	429	655	799	1034	3.16e-64	226
+sfbX	group_997	58.904	219	67	7	440	655	872	1070	1.11e-61	219
+sfbX	group_997	51.408	142	57	3	439	580	794	923	2.58e-32	130
+sfbX	group_17	31.429	210	103	8	450	646	1004	1185	1.14e-17	84.3
+sfbX	group_2793	35.294	153	73	5	501	651	733	861	1.41e-16	80.9
+sfbX	group_478	57.143	28	12	0	1	28	1	28	0.002	35.0
+sfbX	group_3703	70.000	20	6	0	336	355	497	516	0.024	34.7
+sfbX	bca_3~~~bca_4~~~bca_2	40.000	35	21	0	619	653	346	380	0.062	33.1
+sfbX	bca_2~~~bca~~~~~~bca_1~~~bca_3	40.000	35	21	0	619	653	1621	1655	0.062	33.5
+sfbX	alaS_1~~~alaS_4	37.037	54	28	2	270	317	97	150	0.23	31.2
+sfbX	group_3561	50.000	34	15	2	2	34	5	37	0.26	30.0
+sfbX	group_1392	35.417	48	31	0	304	351	111	158	0.33	31.2
+sfbX	emm5_1~~~~~~smc_1	40.000	40	23	1	605	644	522	560	0.45	30.4
+sfbX	alaS~~~~~~alaS_2~~~alaS_1	37.500	40	25	0	278	317	713	752	0.47	30.4
+sfbX	alaS	37.500	40	25	0	278	317	713	752	0.47	30.4
+sfbX	ennX_2~~~ennX_1~~~emm5~~~ennX_3~~~emm5_2~~~emm5_1~~~emm6~~~ennX	42.424	33	18	1	619	650	395	427	0.47	30.4
+sfbX	smc_5~~~ennX_2~~~emm5	42.424	33	18	1	619	650	380	412	0.53	30.0
+sfbX	smc_5~~~smc_3~~~smc_1~~~smc_4~~~smc_2	36.111	108	47	5	228	328	525	617	0.66	30.0
+sfbX	group_4192	30.645	62	39	2	2	59	5	66	0.72	29.3
+sfbX	group_3923	31.034	58	39	1	2	58	5	62	0.77	28.1
+sfbX	ennX_1	41.463	41	24	0	335	375	288	328	1.0	29.3
+sfbX	ennX_1	38.710	31	19	0	620	650	341	371	3.7	27.3
+sfbX	group_3731	31.034	58	39	1	2	58	5	62	1.1	28.5
+sfbX	ennX_1~~~ennX_2~~~ennX~~~~~~ennX_3	41.463	41	24	0	335	375	372	412	1.3	28.9
+sfbX	ennX_1~~~ennX_2~~~ennX~~~~~~ennX_3	37.500	32	20	0	619	650	424	455	4.4	27.3
+sfbX	group_4182	31.034	58	39	1	2	58	5	62	1.8	27.7
+sfbX	group_3130	44.444	36	17	2	620	653	130	164	1.8	27.7
+sfbX	cysE	28.571	70	43	2	552	614	134	203	2.0	27.7
+sfbX	group_1354	30.380	79	47	4	2	72	6	84	2.4	27.3
+sfbX	group_1779	25.397	63	47	0	459	521	428	490	2.7	28.1
+sfbX	group_4207	35.714	28	18	0	619	646	487	514	3.3	27.7
+sfbX	group_1776	24.615	65	49	0	457	521	426	490	3.5	27.7
+sfbX	group_1108	48.148	27	13	1	2	27	5	31	3.5	26.9
+sfbX	emm6~~~~~~arp4~~~ennX_2~~~ennX_1	36.364	33	21	0	428	460	407	439	3.9	27.3
+sfbX	emm6~~~~~~arp4~~~ennX_2~~~ennX_1	38.710	31	19	0	620	650	430	460	4.5	27.3
+sfbX	group_3879	30.357	56	37	2	2	56	5	59	4.9	26.6
+sfbX	group_3446	32.836	67	39	3	362	428	141	201	5.1	26.6
+sfbX	addA_1~~~addA_2~~~addA_3~~~rexB~~~addA	33.333	39	25	1	163	200	1858	1896	5.4	27.3
+sfbX	group_1340	32.500	40	27	0	190	229	20	59	5.6	25.8
+sfbX	ennX_1~~~ennX~~~ennX_2	42.308	26	15	0	619	644	386	411	6.8	26.6
+sfbX	group_1708	40.909	22	13	0	92	113	103	124	7.1	25.8
+sfbX	lepA_1~~~lepA_3~~~lepA_14~~~lepA~~~lepA_2	28.000	50	25	1	601	650	893	931	7.4	26.6
+sfbX	group_4198	35.294	85	38	5	407	487	201	272	8.0	26.6
+sfbX	group_4251	44.444	27	14	1	2	27	5	31	8.1	25.4
+sfbX	group_3291	32.258	31	21	0	620	650	236	266	8.1	26.2
+sfbX	emm5~~~emm6~~~smc_3~~~ennX~~~ennX_1~~~ennX_2~~~~~~emm5_1~~~smc_2~~~emm5_2~~~arp4~~~smc_1~~~emm6_2~~~smc_4~~~smc_5	38.710	31	19	0	620	650	1133	1163	8.8	26.6
+sfbX	emm6	37.500	32	20	0	619	650	474	505	10.0	26.2
+# BLASTP 2.10.1+
+# Query: fbaA tr|Q93RI1|Q93RI1_STRPY Fibronectin-binding protein OS=Streptococcus pyogenes OX=1314 GN=fbaA PE=4 SV=1
+# Database: pan_prot
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 53 hits found
+fbaA	group_3830	76.240	383	47	5	1	355	1	367	1.15e-180	502
+fbaA	group_984	60.625	480	64	7	1	355	1	480	2.18e-160	455
+fbaA	group_4198	29.630	216	120	9	144	350	230	422	9.63e-05	40.8
+fbaA	group_689	31.884	207	111	10	163	350	272	467	1.91e-04	40.0
+fbaA	bca_3~~~bca_4~~~bca_2	39.130	46	25	2	308	352	337	380	4.11e-04	38.9
+fbaA	bca_2~~~bca~~~~~~bca_1~~~bca_3	39.130	46	25	2	308	352	1612	1655	7.18e-04	38.5
+fbaA	bca_2~~~bca~~~~~~bca_1~~~bca_3	37.500	40	19	1	1	34	2	41	0.005	36.2
+fbaA	lepA_1~~~lepA_3~~~lepA_14~~~lepA~~~lepA_2	28.261	92	64	2	263	353	845	935	0.007	35.4
+fbaA	group_726	35.417	48	30	1	304	350	540	587	0.007	35.4
+fbaA	group_1433	37.778	45	27	1	307	350	545	589	0.008	35.0
+fbaA	ennX_1~~~ennX~~~ennX_2	45.000	40	21	1	315	353	382	421	0.011	34.3
+fbaA	group_3574	37.778	45	27	1	307	350	455	499	0.011	34.7
+fbaA	smc_3~~~emm6~~~emm5	45.000	40	21	1	315	353	442	481	0.013	34.3
+fbaA	smc_3~~~emm6~~~emm5	46.875	32	15	1	1	32	1	30	0.056	32.3
+fbaA	emm6	45.000	40	21	1	315	353	470	509	0.016	33.9
+fbaA	emm6	50.000	26	11	1	7	32	7	30	0.079	32.0
+fbaA	group_1392	41.026	39	22	1	313	350	851	889	0.018	33.9
+fbaA	emm5_1~~~~~~smc_1	50.000	26	13	0	7	32	5	30	0.026	33.5
+fbaA	emm5_1~~~~~~smc_1	45.714	35	18	1	320	353	536	570	0.13	31.2
+fbaA	smc_5~~~ennX_2~~~emm5	53.846	26	10	1	7	32	7	30	0.028	33.1
+fbaA	ennX_2~~~ennX_1~~~emm5~~~ennX_3~~~emm5_2~~~emm5_1~~~emm6~~~ennX	53.846	26	10	1	7	32	12	35	0.029	33.1
+fbaA	spg~~~~~~smc_3	40.000	35	20	1	320	353	407	441	0.052	32.3
+fbaA	group_4172	40.000	35	20	1	320	353	211	245	0.100	31.2
+fbaA	emm5~~~emm6~~~smc_3~~~ennX~~~ennX_1~~~ennX_2~~~~~~emm5_1~~~smc_2~~~emm5_2~~~arp4~~~smc_1~~~emm6_2~~~smc_4~~~smc_5	45.000	40	21	1	315	353	1128	1167	0.12	31.6
+fbaA	emm5~~~emm6~~~smc_3~~~ennX~~~ennX_1~~~ennX_2~~~~~~emm5_1~~~smc_2~~~emm5_2~~~arp4~~~smc_1~~~emm6_2~~~smc_4~~~smc_5	37.500	32	20	0	1	32	591	622	1.6	27.7
+fbaA	emm5~~~emm6~~~emm6_2	32.090	134	79	7	221	350	370	495	0.13	31.2
+fbaA	ennX_1~~~ennX_2~~~ennX~~~~~~ennX_3	41.176	34	20	0	320	353	425	458	0.14	31.2
+fbaA	ennX_1~~~ennX_2~~~ennX~~~~~~ennX_3	52.381	21	10	0	12	32	10	30	0.19	30.4
+fbaA	emm6~~~~~~arp4~~~ennX_2~~~ennX_1	41.176	34	20	0	320	353	430	463	0.18	30.8
+fbaA	ennX	52.381	21	10	0	12	32	10	30	0.21	30.4
+fbaA	group_4207	45.000	20	11	0	11	30	13	32	0.44	29.6
+fbaA	ennX_1	38.235	34	21	0	320	353	341	374	0.44	29.3
+fbaA	group_1157	25.969	258	116	15	166	355	392	642	0.49	29.3
+fbaA	group_278	35.714	28	18	0	11	38	18	45	0.59	29.3
+fbaA	group_278	39.394	33	19	1	320	352	1290	1321	3.3	26.9
+fbaA	scpA_2~~~scpA_4~~~scpA_1~~~~~~scpA_3~~~scpA_5~~~scpA_6~~~scpA_7	33.898	59	31	3	302	355	1182	1237	0.59	29.3
+fbaA	group_2502	40.625	32	17	1	1	32	1	30	0.60	28.5
+fbaA	group_229	34.211	38	22	2	319	355	689	724	0.61	29.3
+fbaA	group_229	38.750	80	37	4	198	275	333	402	1.4	28.1
+fbaA	group_17	44.444	27	15	0	320	346	1163	1189	0.84	28.9
+fbaA	lepA_1~~~lepA_2~~~lepA	26.437	87	54	2	169	254	603	680	0.96	28.5
+fbaA	group_3784	26.238	202	105	8	164	342	51	231	1.0	28.1
+fbaA	emm5	47.059	34	17	1	318	350	365	398	1.3	27.7
+fbaA	group_2523	30.952	42	26	2	313	353	992	1031	1.7	27.7
+fbaA	group_2523	42.857	28	13	1	9	33	3	30	2.6	26.9
+fbaA	group_997	42.857	28	13	1	9	33	3	30	1.8	27.7
+fbaA	group_997	28.571	42	27	2	313	353	1028	1067	7.4	25.8
+fbaA	group_3247	47.059	34	17	1	318	350	265	298	2.2	26.9
+fbaA	group_3949	47.059	34	17	1	318	350	267	300	2.4	26.9
+fbaA	group_4199	47.059	34	17	1	318	350	276	309	2.5	26.9
+fbaA	group_670	42.857	28	13	1	9	33	3	30	4.4	26.2
+fbaA	group_3703	40.323	62	27	3	176	227	499	560	5.6	25.8
+fbaA	dnaK~~~dnaK_2~~~dnaK_1	25.166	151	89	5	79	229	213	339	7.6	25.4
+# BLASTP 2.10.1+
+# Query: emm tr|U2W9T9|U2W9T9_STRPY M protein, serotype 49 OS=Streptococcus pyogenes GA06023 OX=1115816 GN=emm PE=3 SV=1
+# Database: pan_prot
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 80 hits found
+emm	ennX_1	93.316	374	7	2	1	356	1	374	0.0	666
+emm	ennX	71.883	377	74	6	1	356	1	366	1.37e-156	441
+emm	ennX_1~~~ennX_2~~~ennX~~~~~~ennX_3	59.348	460	81	7	1	356	1	458	1.19e-155	442
+emm	ennX_1~~~ennX~~~ennX_2	55.787	432	104	14	1	356	1	421	4.66e-106	315
+emm	emm6~~~~~~arp4~~~ennX_2~~~ennX_1	53.265	291	83	6	101	356	191	463	2.11e-71	227
+emm	emm5~~~emm6~~~smc_3~~~ennX~~~ennX_1~~~ennX_2~~~~~~emm5_1~~~smc_2~~~emm5_2~~~arp4~~~smc_1~~~emm6_2~~~smc_4~~~smc_5	58.150	227	74	5	144	356	948	1167	1.91e-61	209
+emm	emm5~~~emm6~~~smc_3~~~ennX~~~ennX_1~~~ennX_2~~~~~~emm5_1~~~smc_2~~~emm5_2~~~arp4~~~smc_1~~~emm6_2~~~smc_4~~~smc_5	59.091	44	18	0	1	44	593	636	1.61e-09	56.6
+emm	emm5~~~emm6~~~smc_3~~~ennX~~~ennX_1~~~ennX_2~~~~~~emm5_1~~~smc_2~~~emm5_2~~~arp4~~~smc_1~~~emm6_2~~~smc_4~~~smc_5	30.709	127	53	2	135	261	862	953	0.001	37.7
+emm	emm6	48.387	279	105	7	92	356	256	509	6.62e-56	187
+emm	emm6	47.143	70	34	1	1	70	1	67	2.48e-11	61.6
+emm	smc_3~~~emm6~~~emm5	55.093	216	77	7	156	356	271	481	3.23e-53	180
+emm	smc_3~~~emm6~~~emm5	45.652	138	50	5	1	119	1	132	1.67e-19	86.7
+emm	smc_5~~~ennX_2~~~emm5	37.471	427	184	16	1	356	1	415	2.47e-47	162
+emm	ennX_2~~~ennX_1~~~emm5~~~ennX_3~~~emm5_2~~~emm5_1~~~emm6~~~ennX	42.126	254	111	9	129	356	187	430	1.74e-32	123
+emm	ennX_2~~~ennX_1~~~emm5~~~ennX_3~~~emm5_2~~~emm5_1~~~emm6~~~ennX	29.452	292	136	11	1	287	6	232	9.97e-11	59.7
+emm	group_2502	71.739	46	13	0	1	46	1	46	5.19e-15	69.3
+emm	emm5_1~~~~~~smc_1	37.870	169	82	5	195	354	415	569	2.39e-13	68.2
+emm	emm5_1~~~~~~smc_1	47.059	34	18	0	1	34	1	34	0.001	37.4
+emm	group_1392	57.143	35	15	0	322	356	857	891	2.53e-09	55.8
+emm	group_3574	57.143	35	15	0	322	356	467	501	2.90e-09	55.1
+emm	group_726	57.143	35	15	0	322	356	555	589	2.95e-09	55.5
+emm	group_1433	57.143	35	15	0	322	356	557	591	4.17e-09	55.1
+emm	smc_2~~~smc_3~~~smc_1	36.598	194	90	5	186	355	398	582	5.30e-09	54.7
+emm	smc_2~~~smc_3~~~smc_1	33.333	45	30	0	1	45	1	45	0.36	29.6
+emm	smc_2~~~~~~smc_1	33.871	248	134	7	135	355	372	616	8.85e-09	53.9
+emm	lepA_1~~~lepA_3~~~lepA_14~~~lepA~~~lepA_2	57.143	35	15	0	322	356	900	934	1.31e-08	53.5
+emm	spg~~~~~~smc_3	37.500	96	44	4	267	353	349	437	4.56e-08	51.6
+emm	smc_1~~~smc_2~~~smc_3~~~~~~emm6_1	32.046	259	134	7	121	355	233	473	8.32e-08	50.8
+emm	smc_1~~~smc_2~~~smc_3~~~~~~emm6_1	28.788	66	40	2	1	60	1	65	0.56	29.3
+emm	group_4172	50.000	46	20	1	311	353	196	241	1.03e-07	49.3
+emm	bca_3~~~bca_4~~~bca_2	47.619	42	22	0	315	356	339	380	5.30e-07	48.1
+emm	smc_1~~~smc_3	32.407	216	113	6	142	335	364	568	1.58e-06	46.6
+emm	smc_1~~~smc_3	28.261	46	33	0	1	46	1	46	0.94	28.5
+emm	group_3247	54.054	74	20	5	292	356	233	301	6.35e-06	44.3
+emm	group_3949	54.054	74	20	5	292	356	235	303	7.06e-06	44.3
+emm	emm5	40.000	135	60	7	234	356	276	401	1.14e-05	43.9
+emm	group_4199	54.054	74	20	5	292	356	244	312	1.18e-05	43.5
+emm	group_4198	54.054	74	20	5	292	356	357	425	1.33e-05	43.5
+emm	group_4207	55.556	36	14	1	322	355	487	522	1.73e-05	43.5
+emm	bca_2~~~bca~~~~~~bca_1~~~bca_3	47.619	42	22	0	315	356	1614	1655	3.54e-05	42.7
+emm	bca_2~~~bca~~~~~~bca_1~~~bca_3	48.148	27	14	0	5	31	14	40	0.78	28.9
+emm	emm5~~~emm6~~~emm6_2	54.054	74	20	5	292	356	430	498	4.16e-05	42.4
+emm	emm5~~~emm6~~~emm6_2	42.424	33	16	1	108	137	42	74	1.1	28.1
+emm	group_689	52.703	74	21	5	292	356	402	470	2.41e-04	39.7
+emm	lepA_1~~~lepA_2~~~lepA	40.625	64	37	1	293	356	672	734	5.87e-04	38.9
+emm	group_2523	40.625	32	19	0	323	354	999	1030	0.018	33.9
+emm	group_2523	50.000	28	11	1	6	30	2	29	2.5	26.9
+emm	tee6	38.235	34	20	1	321	353	515	548	0.084	31.6
+emm	group_984	43.750	32	16	1	1	30	1	32	0.11	31.6
+emm	group_984	41.176	34	20	0	323	356	445	478	0.40	29.6
+emm	group_3830	41.176	34	20	0	323	356	332	365	0.15	30.8
+emm	group_997	40.625	32	19	0	323	354	1035	1066	0.16	31.2
+emm	group_997	46.429	28	12	1	6	30	2	29	3.9	26.6
+emm	group_3050	30.645	62	39	2	295	356	522	579	0.18	30.8
+emm	group_3820	30.645	62	30	2	293	353	701	750	0.23	30.4
+emm	group_3626	29.870	77	43	1	180	256	27	92	0.35	29.6
+emm	group_278	36.170	47	26	1	5	47	14	60	0.38	29.6
+emm	group_278	38.235	34	21	0	322	355	1289	1322	1.3	28.1
+emm	group_3788	37.500	32	20	0	323	354	904	935	0.43	29.6
+emm	group_302	26.667	30	22	0	323	352	684	713	0.71	28.9
+emm	group_2911	25.600	125	84	4	214	333	150	270	0.86	28.5
+emm	group_1157	38.710	31	19	0	323	353	608	638	0.91	28.5
+emm	group_3283	41.667	36	19	1	321	354	1473	1508	1.1	28.5
+emm	group_453	25.333	150	90	6	214	356	2244	2378	1.2	28.1
+emm	group_315	33.333	30	19	1	320	349	983	1011	1.4	28.1
+emm	group_229	38.710	31	19	0	323	353	690	720	1.4	27.7
+emm	tee6~~~tee6_2~~~tee6_1	36.364	33	20	1	322	353	518	550	1.8	27.3
+emm	group_4222	29.851	67	40	1	290	356	493	552	2.4	26.9
+emm	bcrA_2	29.630	54	38	0	237	290	176	229	2.4	26.9
+emm	group_2976	28.000	75	42	2	30	94	113	185	2.6	26.9
+emm	rsmA~~~rsmA_2~~~rsmA_1	27.273	66	41	1	29	87	53	118	2.7	26.9
+emm	group_670	50.000	28	11	1	6	30	2	29	3.3	26.6
+emm	group_1663	32.432	74	44	3	144	214	1214	1284	3.8	26.6
+emm	group_2004	26.562	128	61	5	160	287	107	201	4.0	26.2
+emm	obg~~~obg_1~~~obg_2	22.857	140	97	1	115	254	237	365	4.1	26.2
+emm	group_3371	29.032	62	31	2	293	353	702	751	4.5	26.2
+emm	repE	37.931	29	18	0	191	219	235	263	5.4	25.8
+emm	smc_1	34.615	104	59	5	180	280	557	654	5.5	26.2
+emm	group_390	35.593	59	29	2	234	283	41	99	6.3	25.8
+emm	group_173	36.667	30	19	0	90	119	167	196	7.8	25.0
+# BLASTP 2.10.1+
+# Query: sic1.87 tr|J7M927|J7M927_STRP1 Streptococcal inhibitor of complement OS=Streptococcus pyogenes M1 476 OX=1207470 GN=sic1.87 PE=4 SV=2
+# Database: pan_prot
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 24 hits found
+sic1.87	group_1350	92.237	219	13	2	54	272	270	484	7.59e-135	387
+sic1.87	group_1350	77.083	192	3	1	1	151	1	192	8.40e-90	271
+sic1.87	group_1350	83.673	98	15	1	54	151	154	250	2.67e-44	153
+sic1.87	group_1350	83.673	98	15	1	54	151	183	279	2.67e-44	153
+sic1.87	group_3829	52.366	317	66	8	1	272	1	277	5.28e-88	260
+sic1.87	group_3838	42.662	293	123	13	1	272	1	269	1.12e-42	144
+sic1.87	group_3837	40.000	310	125	13	1	272	1	287	5.36e-41	140
+sic1.87	group_3867	54.369	103	7	1	12	74	16	118	3.27e-21	87.8
+sic1.87	group_2358	76.923	39	9	0	1	39	1	39	1.54e-12	62.8
+sic1.87	group_3961	40.909	66	31	1	198	263	142	199	1.79e-08	50.4
+sic1.87	group_3961	67.647	34	11	0	1	34	1	34	4.29e-08	49.3
+sic1.87	group_3727	67.647	34	11	0	1	34	1	34	5.09e-08	49.3
+sic1.87	group_3727	30.631	111	49	4	154	263	108	191	5.76e-06	43.1
+sic1.87	group_4176	79.310	29	6	0	13	41	13	41	1.22e-07	48.5
+sic1.87	group_1010	32.727	55	37	0	7	61	8	62	0.027	31.6
+sic1.87	group_4200	34.694	49	28	1	6	50	2	50	0.080	30.4
+sic1.87	group_2459	35.000	40	25	1	2	40	4	43	0.36	26.6
+sic1.87	group_4178	44.118	34	15	1	10	39	5	38	0.74	27.7
+sic1.87	group_1107	36.066	61	31	3	10	65	5	62	2.5	25.8
+sic1.87	group_124	31.579	38	19	1	227	257	94	131	3.0	26.2
+sic1.87	ennX_1~~~ennX~~~ennX_2	26.471	68	46	1	49	116	76	139	3.7	25.8
+sic1.87	group_4232	28.182	110	56	4	10	111	5	99	5.5	24.6
+sic1.87	group_1355	22.414	116	52	4	3	106	2	91	6.2	24.6
+sic1.87	group_3902	33.333	39	26	0	1	39	28	66	8.6	23.1
+# BLASTP 2.10.1+
+# Query: sfbI tr|Q711B0|Q711B0_STRPY Fibronectin-binding protein I OS=Streptococcus pyogenes OX=1314 GN=sfbI PE=1 SV=1
+# Database: pan_prot
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 31 hits found
+sfbI	group_2793	74.266	443	100	4	1	435	1	437	0.0	652
+sfbI	group_2793	62.443	442	130	12	272	703	443	858	1.31e-140	431
+sfbI	group_2991	44.610	269	135	5	1	259	1	265	2.62e-68	236
+sfbI	group_2991	29.834	181	107	5	95	260	418	593	5.73e-05	43.5
+sfbI	group_1444	44.574	258	122	6	17	258	20	272	1.03e-60	214
+sfbI	group_1444	27.179	195	115	10	77	260	408	586	4.70e-05	43.5
+sfbI	group_229	42.149	242	110	8	493	704	481	722	5.09e-42	160
+sfbI	group_997	44.105	229	110	7	493	705	839	1065	2.05e-39	153
+sfbI	group_17	35.865	237	110	4	473	706	999	1196	1.04e-33	135
+sfbI	group_17	27.632	228	114	7	469	649	841	1064	9.41e-06	46.2
+sfbI	group_2523	36.937	222	112	7	501	705	819	1029	6.55e-28	117
+sfbI	group_2523	43.056	72	38	2	465	533	887	958	3.21e-07	50.8
+sfbI	group_1157	38.415	164	75	5	567	704	477	640	8.25e-22	97.4
+sfbI	group_689	36.872	179	91	8	257	430	236	397	5.26e-07	49.7
+sfbI	group_689	36.196	163	84	7	273	430	229	376	4.14e-05	43.5
+sfbI	group_2017	29.752	121	73	3	95	207	176	292	1.20e-04	42.0
+sfbI	group_2267	36.585	41	26	0	662	702	170	210	0.003	36.6
+sfbI	group_3338	54.545	22	10	0	673	694	201	222	0.14	31.6
+sfbI	group_3784	54.545	22	10	0	673	694	209	230	0.26	30.8
+sfbI	ssp5~~~pas~~~~~~spaP	27.132	129	78	4	309	436	712	825	0.27	31.6
+sfbI	ssp5~~~pas~~~~~~spaP	25.625	160	97	5	281	440	732	869	6.5	26.9
+sfbI	group_4198	33.613	119	60	5	345	453	276	385	0.54	30.4
+sfbI	group_3247	30.986	71	42	1	540	610	159	222	2.2	28.1
+sfbI	group_315	31.915	47	29	2	660	703	972	1018	3.4	27.7
+sfbI	argS_1~~~argS~~~argS_2	29.508	61	36	2	97	152	488	546	3.5	27.7
+sfbI	lepA_1~~~lepA_2~~~lepA	44.118	34	13	2	258	286	640	672	3.9	27.7
+sfbI	emm5~~~emm6~~~emm6_2	41.667	60	29	3	371	430	372	425	5.7	26.9
+sfbI	group_728	25.676	74	50	2	99	167	211	284	6.1	26.9
+sfbI	group_1433	32.000	50	27	2	244	286	480	529	8.4	26.6
+sfbI	group_3476	45.455	33	18	0	452	484	860	892	9.8	26.6
+sfbI	group_1392	37.500	48	24	2	244	286	783	829	9.8	26.6
+# BLASTP 2.10.1+
+# Query: prtF2 tr|Q001E9|Q001E9_STRPY PrtF2 OS=Streptococcus pyogenes OX=1314 GN=prtF2 PE=4 SV=1
+# Database: pan_prot
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 57 hits found
+prtF2	group_17	86.053	337	10	1	434	733	865	1201	0.0	566
+prtF2	group_17	68.817	93	17	2	1	93	1	81	5.21e-26	111
+prtF2	group_17	27.000	200	94	7	450	628	733	901	0.009	36.2
+prtF2	group_17	33.000	100	59	4	443	537	29	125	0.017	35.4
+prtF2	group_17	34.722	72	44	1	465	533	516	587	0.42	30.8
+prtF2	group_229	37.288	177	89	6	563	717	540	716	6.51e-21	94.7
+prtF2	group_229	33.333	102	57	4	365	462	535	629	0.78	30.0
+prtF2	group_229	39.024	41	18	1	631	664	489	529	4.3	27.7
+prtF2	group_2523	33.146	178	99	6	567	727	855	1029	1.83e-18	87.4
+prtF2	group_2523	29.126	103	59	3	365	466	816	905	1.8	28.9
+prtF2	group_2523	57.143	21	9	0	633	653	819	839	4.2	27.7
+prtF2	group_2523	52.632	38	16	2	365	402	924	959	5.7	27.3
+prtF2	group_997	35.227	176	99	5	564	727	893	1065	4.38e-18	86.3
+prtF2	group_997	40.404	99	52	3	573	664	821	919	3.91e-11	63.5
+prtF2	group_997	31.132	106	62	4	365	466	847	945	0.55	30.4
+prtF2	group_997	52.632	38	16	2	365	402	964	999	5.6	27.3
+prtF2	group_1157	33.862	189	90	8	564	717	446	634	1.41e-17	84.0
+prtF2	group_3945	46.875	96	47	3	466	559	205	298	1.45e-17	82.0
+prtF2	group_2793	37.500	152	81	6	579	728	720	859	3.00e-14	73.6
+prtF2	group_2793	25.506	247	154	13	19	247	27	261	6.59e-11	62.8
+prtF2	group_2991	24.498	249	165	6	15	245	23	266	4.73e-13	69.7
+prtF2	group_2991	38.961	77	43	3	467	541	289	363	0.001	38.9
+prtF2	group_2991	22.656	128	82	3	130	240	461	588	0.100	32.7
+prtF2	group_1444	26.882	186	116	7	4	183	21	192	4.22e-08	53.5
+prtF2	group_1444	24.370	119	81	4	129	240	465	581	0.12	32.7
+prtF2	group_1444	35.616	73	42	3	476	544	305	376	0.15	32.3
+prtF2	group_939	33.898	118	62	5	451	555	568	682	1.01e-05	46.2
+prtF2	group_939	33.010	103	58	6	447	539	1574	1675	0.001	39.7
+prtF2	group_939	41.558	77	39	5	466	537	1028	1103	0.36	31.2
+prtF2	group_2017	38.806	67	39	2	476	541	54	119	0.004	37.4
+prtF2	group_2017	27.679	112	75	4	129	237	217	325	0.008	36.2
+prtF2	smc_5~~~ennX_2~~~emm5	38.462	39	23	1	689	727	375	412	0.075	33.1
+prtF2	group_2792	38.095	42	24	1	498	537	560	601	0.19	32.0
+prtF2	group_2792	30.476	105	60	4	446	539	1173	1275	0.39	31.2
+prtF2	group_2792	35.955	89	48	5	466	546	623	710	0.95	29.6
+prtF2	group_2792	29.000	100	60	3	439	527	14	113	1.2	29.6
+prtF2	group_321	44.444	36	17	2	507	539	521	556	0.26	31.6
+prtF2	ennX_2~~~ennX_1~~~emm5~~~ennX_3~~~emm5_2~~~emm5_1~~~emm6~~~ennX	32.203	59	28	3	680	727	370	427	0.42	30.8
+prtF2	group_3344	27.835	97	58	3	5	90	60	155	0.49	30.8
+prtF2	group_3049	39.130	46	24	3	498	540	780	824	0.98	29.6
+prtF2	spg~~~~~~smc_3	28.814	59	40	2	671	728	383	440	2.0	28.5
+prtF2	group_1371	26.582	79	53	1	490	568	35	108	2.4	28.1
+prtF2	group_626	26.582	79	53	1	490	568	35	108	2.5	28.1
+prtF2	dltA~~~dltA_1~~~dltA_2	26.582	79	49	1	554	623	292	370	2.5	28.1
+prtF2	group_1911	47.059	34	15	1	96	129	83	113	2.7	26.9
+prtF2	group_1075	28.571	49	29	1	510	558	163	205	3.2	28.1
+prtF2	group_4172	17.857	168	111	5	587	728	78	244	3.4	27.3
+prtF2	group_3698	21.698	106	77	1	453	558	126	225	3.7	27.7
+prtF2	group_3830	44.444	27	15	0	695	721	332	358	3.9	27.3
+prtF2	group_225	35.135	37	24	0	328	364	15	51	4.8	25.8
+prtF2	group_4222	57.692	26	10	1	511	535	464	489	6.2	26.9
+prtF2	group_1825	44.444	27	14	1	685	710	10	36	6.5	25.8
+prtF2	group_782	27.778	54	31	1	313	366	13	58	8.1	25.8
+prtF2	IMPDH	24.022	179	98	8	103	262	104	263	8.5	26.6
+prtF2	group_4103	24.022	179	98	8	103	262	104	263	8.5	26.6
+prtF2	tee6	27.536	69	46	2	465	529	351	419	8.6	26.6
+prtF2	group_3279	25.316	79	56	1	633	708	7	85	9.2	26.2
+# BLASTP 2.10.1+
+# Query: SLS tr|A0A0H3BZF9|A0A0H3BZF9_STRPZ Streptolysin S associated protein (SagA) OS=Streptococcus pyogenes serotype M49 (strain NZ131) OX=471876 GN=sagA PE=4 SV=1
+# Database: pan_prot
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+SLS	group_2453	100.000	53	0	0	1	53	1	53	7.08e-33	103
+SLS	xerC_4~~~xerC_1	71.429	14	4	0	4	17	69	82	2.2	22.3
+SLS	group_2159	53.333	15	7	0	30	44	341	355	4.2	21.9
+SLS	group_453	45.000	20	11	0	34	53	1175	1194	4.7	21.6
+SLS	murF~~~murF_2~~~murF_1	61.538	13	5	0	2	14	263	275	6.0	21.2
+SLS	group_1737	41.176	17	10	0	25	41	153	169	9.4	20.8
+# BLASTP 2.10.1+
+# Query: spd3 tr|Q1CPD7|Q1CPD7_STRPF Streptodornase OS=Streptococcus pyogenes serotype M4 (strain MGAS10750) OX=370554 GN=MGAS10750_Spy0622 PE=4 SV=1
+# Database: pan_prot
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 20 hits found
+spd3	group_1004	100.000	252	0	0	1	252	1	252	0.0	520
+spd3	group_4157	100.000	252	0	0	1	252	1	252	0.0	520
+spd3	group_627	54.202	238	104	2	9	246	11	243	3.01e-90	265
+spd3	group_3617	54.202	238	104	2	9	246	11	243	3.01e-90	265
+spd3	group_883	57.870	216	86	2	31	246	33	243	1.65e-88	260
+spd3	group_882	51.190	252	104	3	9	246	11	257	2.91e-86	255
+spd3	group_3898	28.095	210	119	7	43	248	78	259	5.81e-16	72.4
+spd3	group_3781	27.174	184	108	6	66	248	101	259	1.19e-14	68.9
+spd3	group_633	31.915	141	70	5	108	247	144	259	1.11e-09	54.7
+spd3	group_2524	25.893	224	125	10	44	252	75	272	1.94e-09	53.9
+spd3	group_4024	27.586	145	76	6	105	246	171	289	8.45e-08	49.3
+spd3	group_1277	27.586	145	76	6	105	246	171	289	1.11e-07	48.9
+spd3	group_3063	29.348	92	47	2	160	251	1	74	2.37e-07	44.3
+spd3	endA~~~endA_2~~~endA_1	27.273	176	89	9	79	246	138	282	1.11e-05	42.7
+spd3	group_626	27.381	84	53	2	114	197	177	252	0.002	35.8
+spd3	group_1371	26.582	79	50	2	119	197	182	252	0.017	33.1
+spd3	group_2872	26.490	151	95	7	87	226	111	256	0.052	31.6
+spd3	group_2911	31.250	32	22	0	180	211	114	145	6.9	25.0
+spd3	group_2965	33.333	24	16	0	120	143	29	52	8.5	23.1
+spd3	aroE_2~~~aroE_1	28.000	50	34	1	55	104	152	199	9.1	24.6
+# BLASTP 2.10.1+
+# Query: hylA tr|Q9L7W9|Q9L7W9_STRPY Extracellular hyaluronate lyase OS=Streptococcus pyogenes OX=1314 GN=hylA PE=4 SV=1
+# Database: pan_prot
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 9 hits found
+hylA	hylB	92.857	868	62	0	1	868	1	868	0.0	1661
+hylA	group_2437	98.270	578	10	0	1	578	1	578	0.0	1188
+hylA	group_3469	23.571	140	99	2	76	210	57	193	0.26	31.2
+hylA	pezT	25.397	126	78	3	76	192	57	175	0.94	29.6
+hylA	group_2675	24.000	125	87	2	76	195	57	178	2.8	28.1
+hylA	group_347	34.286	35	23	0	567	601	110	144	3.0	27.7
+hylA	group_1825	44.444	27	15	0	460	486	44	70	4.3	26.6
+hylA	group_3347	37.500	40	20	2	166	204	542	577	5.5	27.3
+hylA	haeIIIM_1	30.612	49	34	0	590	638	201	249	9.4	26.6
+# BLASTP 2.10.1+
+# Query: sdaB tr|Q5R202|Q5R202_STRPY Nuclease (Fragment) OS=Streptococcus pyogenes OX=1314 GN=sdaB PE=4 SV=1
+# Database: pan_prot
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 21 hits found
+sdaB	group_2524	99.565	230	1	0	1	230	41	270	2.16e-173	475
+sdaB	group_4101	99.301	143	1	0	1	143	41	183	2.33e-104	296
+sdaB	group_633	66.190	210	69	1	20	227	50	259	2.10e-95	277
+sdaB	group_3063	100.000	74	0	0	158	231	1	74	6.34e-50	155
+sdaB	group_4024	35.510	245	114	2	26	226	45	289	1.30e-43	147
+sdaB	group_1277	35.246	244	114	2	27	226	46	289	2.41e-42	145
+sdaB	group_626	34.568	243	113	3	28	226	43	283	9.81e-39	134
+sdaB	group_1371	34.156	243	114	3	28	226	43	283	7.64e-38	131
+sdaB	group_3781	31.214	173	104	6	57	227	99	258	1.29e-13	65.5
+sdaB	group_3898	31.395	172	103	8	57	226	99	257	4.26e-12	61.2
+sdaB	group_1004	26.457	223	123	10	35	231	44	251	6.77e-10	54.7
+sdaB	group_4157	26.457	223	123	10	35	231	44	251	6.77e-10	54.7
+sdaB	group_627	30.909	165	95	9	39	197	45	196	1.10e-09	54.3
+sdaB	group_3617	30.909	165	95	9	39	197	45	196	1.10e-09	54.3
+sdaB	group_883	30.573	157	91	7	46	197	53	196	3.14e-09	52.8
+sdaB	group_882	33.929	112	62	5	89	197	108	210	1.42e-08	50.8
+sdaB	endA~~~endA_2~~~endA_1	26.241	141	84	6	94	226	154	282	0.044	31.6
+sdaB	uidA_1~~~uidA_2~~~uidA	35.000	60	33	2	116	169	56	115	0.80	27.7
+sdaB	group_1780	27.778	90	55	4	1	82	185	272	1.4	26.9
+sdaB	group_1165	34.286	35	23	0	187	221	25	59	4.7	25.4
+sdaB	group_1065	29.091	55	38	1	102	156	449	502	9.0	24.6
+# BLASTP 2.10.1+
+# Query: emm_gene tr|Q6RI58|Q6RI58_STRPY M protein (Fragment) OS=Streptococcus pyogenes OX=1314 GN=emm PE=4 SV=1
+# Database: pan_prot
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 13 hits found
+emm_gene	emm6~~~~~~arp4~~~ennX_2~~~ennX_1	100.000	50	0	0	1	50	42	91	1.35e-30	107
+emm_gene	group_374	31.373	51	32	2	2	49	15	65	0.32	24.6
+emm_gene	group_146	45.833	24	13	0	7	30	27	50	0.61	23.5
+emm_gene	group_3377	31.579	38	23	1	13	47	120	157	1.1	23.1
+emm_gene	group_3237	43.333	30	16	1	3	31	63	92	3.9	21.6
+emm_gene	xerD~~~xerC_2	32.432	37	20	1	1	32	63	99	4.9	21.6
+emm_gene	licT~~~licT_2~~~~~~licT_1	33.333	27	18	0	14	40	240	266	5.1	21.2
+emm_gene	group_3178	50.000	18	9	0	22	39	3	20	5.5	21.2
+emm_gene	group_1664	60.000	20	8	0	31	50	218	237	5.5	21.2
+emm_gene	group_810	44.681	47	21	3	3	45	386	431	5.9	21.2
+emm_gene	group_2899	44.681	47	21	3	3	45	386	431	6.3	21.2
+emm_gene	group_4275	44.681	47	21	3	3	45	392	437	6.4	21.2
+emm_gene	group_850	44.681	47	21	3	3	45	392	437	7.0	21.2
+# BLASTP 2.10.1+
+# Query: Streptolysin_O sp|P0C0I3|TACY_STRP1 Streptolysin O OS=Streptococcus pyogenes serotype M1 OX=301447 GN=slo PE=3 SV=1
+# Database: pan_prot
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 11 hits found
+Streptolysin_O	slo_1~~~~~~slo_2~~~slo	100.000	571	0	0	1	571	4	574	0.0	1163
+Streptolysin_O	group_2935	25.000	112	72	4	4	104	3	113	1.2	27.7
+Streptolysin_O	radD~~~~~~uvrB_1~~~uvrB_2	25.532	94	66	2	374	467	241	330	2.5	27.7
+Streptolysin_O	group_1709	26.230	61	43	1	265	325	185	243	2.9	27.3
+Streptolysin_O	group_2581	28.571	56	37	1	58	110	22	77	2.9	26.2
+Streptolysin_O	uvrB_2~~~~~~uvrB_1	37.838	37	22	1	374	410	241	276	3.0	27.7
+Streptolysin_O	IntTn~~~IntTn_1~~~IntTn_2	50.000	24	12	0	111	134	206	229	4.6	26.9
+Streptolysin_O	group_2497	40.741	27	16	0	322	348	116	142	8.2	25.4
+Streptolysin_O	group_4076	36.508	63	30	3	7	59	1	63	8.4	25.8
+Streptolysin_O	topB~~~topB_2~~~topB_1	41.463	41	15	1	131	171	532	563	8.9	26.2
+Streptolysin_O	oadA_3~~~~~~oadA_1~~~oadA	34.091	44	25	1	213	256	207	246	9.9	25.8
+# BLASTP 2.10.1+
+# Query: sda1 tr|Q675N6|Q675N6_STRPY DNA/RNA non-specific endonuclease family protein OS=Streptococcus pyogenes OX=1314 GN=sda1 PE=1 SV=1
+# Database: pan_prot
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 25 hits found
+sda1	group_1277	96.692	393	10	1	1	390	1	393	0.0	779
+sda1	group_4024	77.946	331	70	1	1	328	1	331	0.0	532
+sda1	group_626	48.788	330	158	4	1	326	1	323	4.72e-105	310
+sda1	group_1371	48.632	329	160	4	1	326	1	323	5.44e-104	307
+sda1	group_2524	36.885	244	110	4	46	289	67	266	1.58e-41	145
+sda1	group_633	36.585	246	110	7	46	289	57	258	2.00e-34	125
+sda1	group_3781	32.653	196	93	7	96	289	99	257	1.48e-17	79.0
+sda1	group_3063	43.478	69	39	0	221	289	1	69	8.13e-15	66.2
+sda1	group_3898	38.462	117	65	4	177	289	144	257	3.34e-14	69.3
+sda1	group_883	31.447	159	85	6	173	309	107	263	1.82e-13	67.0
+sda1	group_627	32.075	159	84	6	173	309	107	263	6.49e-13	65.5
+sda1	group_3617	32.075	159	84	6	173	309	107	263	6.49e-13	65.5
+sda1	group_882	32.075	159	84	6	173	309	121	277	7.48e-13	65.5
+sda1	group_4101	30.435	161	68	4	46	206	67	183	6.86e-12	61.2
+sda1	group_1004	27.737	137	71	5	179	289	112	246	4.47e-07	47.8
+sda1	group_4157	27.737	137	71	5	179	289	112	246	4.47e-07	47.8
+sda1	endA~~~endA_2~~~endA_1	28.696	115	68	3	185	289	172	282	0.005	35.4
+sda1	IntTn_1	30.435	46	32	0	329	374	6	51	1.3	28.1
+sda1	group_1479	28.571	63	39	2	301	363	483	539	2.0	27.7
+sda1	group_494	29.268	41	26	1	98	135	161	201	4.4	26.2
+sda1	trxB	34.286	35	22	1	37	71	34	67	5.4	25.8
+sda1	rlhA	37.931	29	18	0	90	118	264	292	5.7	26.2
+sda1	manZ_2	62.500	16	6	0	20	35	232	247	8.2	25.4
+sda1	haeIIIM~~~~~~bspRIM	39.130	23	14	0	268	290	117	139	9.5	25.4
+sda1	group_654	26.829	41	27	1	98	135	161	201	10.0	25.0
+# BLAST processed 27 queries
